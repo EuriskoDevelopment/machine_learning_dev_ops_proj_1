@@ -1,0 +1,4 @@
+root - INFO = Testing import_data successful: File loaded correctly
+root - INFO = Testing perform_eda successful: EDA performed correctly
+root - INFO = Testing encoder_helper successful: Encoder performed correctly
+root - INFO = Testing perform_feature_engineering successful: data split
